@@ -1,0 +1,10 @@
+KONLP
+Mecab
+openpyxl
+nltk
+numpy
+pandas
+seaborn
+tqdm
+bs4
+requests

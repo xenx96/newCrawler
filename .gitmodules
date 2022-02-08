@@ -1,0 +1,3 @@
+[submodule "newCrawler"]
+	path = newCrawler
+	url = https://github.com/xenx96/newCrawler
